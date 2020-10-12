@@ -9,9 +9,9 @@ The purpose of this analysis is to help Dana, a data journalist create a website
 ![Sample Image](static/images/sample.png)
 
 There is a description of how to perform a search, with images. (4 pt)
-To perform a search, you must use one of the filters. We will use state for this example; input ak in the state search box and press enter this will filter out the UFO findings for the state AK. The other search boxes can be used as well, but only one search at a time meaning not all of the search boxes can be utilized. As you can see above, AK was populated into the search box for state and only ak state UFO related data appeared. Lastly to clear the search, press the button on the top left corner "UFO Sighting" and you will be ready for a new search.
+To perform a search, you must use one of the filters. We will use state for this example; input ak in the state search box and press enter this will filter out the UFO findings for the state AK. The other search boxes can be used as well, but only one search at a time meaning not all of the search boxes can be utilized. As you can see above, AK was populated into the search box for state and only ak state UFO related data appeared. Lastly see below: to clear the search, press the button on the top left corner "UFO Sighting" and you will be ready for a new search.
 
-
+![Clear Image](static/images/clear.png)
 
 
 
